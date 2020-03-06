@@ -1,0 +1,97 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 2019-05-27, 18:27:13
+    Updated at : 2020-01-08, 18:22:45
+    Author     : Paweł Nankiewicz
+*/
+nav{
+    background-color: black;
+}
+body{
+    background-color: whitesmoke;
+}
+main{
+    padding-top: 50px;
+}
+footer{
+    background-color: #ffbb33;
+}
+header {
+    font-size: 14px;
+    color: #717376;
+}
+h6{
+    text-align: justify;
+    font-family: 'Comfortaa', cursive;
+    font-size: 14px;
+}
+h5{
+    font-size: 14px;
+    font-family: 'Comfortaa', cursive;
+    color: black;
+    text-align: justify;
+}
+h4{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 14px;
+}
+h3{
+    font-family: 'Comfortaa', cursive;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-size: 25px;
+}
+h1{
+    font-family: 'Comfortaa', cursive;
+    font-size: 64px;
+    text-align: center;
+}
+.site-branding {
+    padding-top:80px;
+    padding-bottom:80px;
+    font-size: 14px;
+    color: #717376;
+    background-image: url("../background-y/fabric.jpg");
+    background-position: center;
+}
+.page-footer{
+    background-color: black;
+}
+.site-title{
+    font-size:62px;
+}
+.site-title {
+    color: white;
+    font-size: 62px;
+    display: table;
+    margin: 0 auto;
+    padding: 15px;
+    font-weight: 200;
+}
+.footer-down {
+    position: fixed;
+    left: auto;
+    right: auto;
+    width: 100%;
+    bottom: 0;
+    background-image: url("../background-y/fabric.jpg");
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    background-position: center;
+}
+
+
+
+
+
+
+
+
